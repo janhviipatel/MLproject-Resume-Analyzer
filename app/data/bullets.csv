@@ -1,0 +1,201 @@
+text,label,source
+Reduced API latency by 38% by introducing Redis caching for hot endpoints,1,seed
+Led a team of 5 engineers to ship a payments platform handling $2M monthly volume,1,seed
+"Built a Python ETL pipeline processing 10M records daily, cutting report time from 6 hours to 15 minutes",1,seed
+Increased conversion rate by 12% through A/B testing of the checkout flow,1,seed
+Designed and deployed a REST API serving 2M requests per day,1,seed
+"Automated regression testing with pytest, raising coverage from 41% to 87%",1,seed
+"Migrated 40 tables to Snowflake, saving $120K annually",1,seed
+"Launched a mobile app that reached 50,000 downloads in three months",1,seed
+"Mentored 4 junior developers, two of whom were promoted within a year",1,seed
+"Optimized SQL queries, reducing dashboard load time by 70%",1,seed
+"Implemented CI/CD with GitHub Actions, cutting release cycles from 2 weeks to 2 days",1,seed
+Trained a gradient boosting model that improved churn prediction recall by 18%,1,seed
+Negotiated vendor contracts that lowered annual cloud spend by $85K,1,seed
+Architected a microservices platform on Kubernetes supporting 300 services,1,seed
+Grew organic traffic 3x in 9 months by rebuilding the content strategy,1,seed
+Developed a fraud detection model that flagged $1.4M in suspicious transactions,1,seed
+"Streamlined onboarding, reducing new hire ramp time from 8 weeks to 5",1,seed
+Scaled a data warehouse from 2TB to 40TB with no downtime,1,seed
+Created a Tableau dashboard adopted by 12 teams to track weekly KPIs,1,seed
+Cut infrastructure costs by 31% by right-sizing AWS instances,1,seed
+Delivered 15 client projects on schedule with 98% satisfaction scores,1,seed
+"Wrote a React component library used across 6 products, reducing UI bugs by 25%",1,seed
+Boosted email open rates from 18% to 27% by segmenting audiences,1,seed
+Deployed a recommendation engine that lifted average order value by 9%,1,seed
+Resolved 120+ customer escalations per quarter while maintaining a 4.8 CSAT rating,1,seed
+Engineered a real-time Kafka pipeline handling 50K events per second,1,seed
+Reduced customer churn by 6 points by redesigning the renewal workflow,1,seed
+Secured $250K in grant funding by writing three successful proposals,1,seed
+Improved model accuracy from 82% to 91% with feature engineering and cross-validation,1,seed
+Established code review standards adopted by a 20-person engineering org,1,seed
+Responsible for maintaining the company website,0,seed
+Worked on various backend tasks,0,seed
+Helped with customer support issues,0,seed
+Duties included answering phones and filing documents,0,seed
+Assisted the team with data analysis,0,seed
+Participated in weekly team meetings,0,seed
+Involved in the development of new features,0,seed
+Tasked with managing social media accounts,0,seed
+Handled day to day operations,0,seed
+Worked with a team to complete projects,0,seed
+Responsible for writing code and fixing bugs,0,seed
+Helped improve the process,0,seed
+Good communication and teamwork skills,0,seed
+Familiar with Python and SQL,0,seed
+Was part of the machine learning project,0,seed
+Did research on different topics,0,seed
+Assisted in testing software,0,seed
+Worked on the mobile app,0,seed
+Responsible for various administrative duties,0,seed
+Supported senior engineers with tasks,0,seed
+Contributed to several projects,0,seed
+Used Excel for reporting,0,seed
+Performed other duties as assigned,0,seed
+Helped the manager with scheduling,0,seed
+Took part in code reviews,0,seed
+In charge of the inventory system,0,seed
+Hard working team player with attention to detail,0,seed
+Worked closely with stakeholders,0,seed
+Maintained documentation,0,seed
+Responsible for customer relationships,0,seed
+Decreased manual effort by 5% by rewriting slow queries,1,synthetic
+Built a forecasting model serving 2K users,1,synthetic
+Cut report generation time by 40% by introducing monitoring,1,synthetic
+Developed a forecasting model serving 15K users,1,synthetic
+Reduced onboarding time by 60% by adding caching,1,synthetic
+Implemented an A/B testing framework handling 30K requests per minute,1,synthetic
+Decreased model error rate by 60% by automating the workflow,1,synthetic
+Grew user retention by 3% through refactoring core modules,1,synthetic
+Cut manual effort by 2% by tuning the model,1,synthetic
+Reduced page load time by 8% by rewriting slow queries,1,synthetic
+Reduced report generation time by 60% by redesigning the process,1,synthetic
+Improved conversion rate by 15% through automating the workflow,1,synthetic
+Designed a mobile feature saving $30K per year,1,synthetic
+Boosted conversion rate by 2% through adding caching,1,synthetic
+Reduced support tickets by 12% by introducing monitoring,1,synthetic
+Developed a CI/CD pipeline saving $2K per year,1,synthetic
+Decreased onboarding time by 5% by automating the workflow,1,synthetic
+Designed a monitoring system processing 20M records daily,1,synthetic
+Grew model accuracy by 60% through migrating to a managed service,1,synthetic
+Reduced model error rate by 60% by migrating to a managed service,1,synthetic
+Built an internal dashboard saving $12K per year,1,synthetic
+Improved adoption by 20% through tuning the model,1,synthetic
+Improved uptime by 12% through adding caching,1,synthetic
+Lowered support tickets by 5% by adding caching,1,synthetic
+Cut model error rate by 5% by introducing monitoring,1,synthetic
+Created a monitoring system saving $3K per year,1,synthetic
+Grew adoption by 8% through redesigning the process,1,synthetic
+Reduced manual effort by 20% by refactoring core modules,1,synthetic
+Deployed an A/B testing framework serving 20K users,1,synthetic
+Increased revenue by 3% through redesigning the process,1,synthetic
+Lowered query time by 15% by refactoring core modules,1,synthetic
+Improved throughput by 8% through redesigning the process,1,synthetic
+Lowered deployment time by 60% by migrating to a managed service,1,synthetic
+Improved throughput by 2% through refactoring core modules,1,synthetic
+Reduced deployment time by 30% by rewriting slow queries,1,synthetic
+Reduced deployment time by 12% by adding caching,1,synthetic
+Cut model error rate by 30% by redesigning the process,1,synthetic
+Lowered support tickets by 3% by refactoring core modules,1,synthetic
+Developed a mobile feature serving 15K users,1,synthetic
+Cut support tickets by 3% by adding caching,1,synthetic
+Lowered bug count by 30% by refactoring core modules,1,synthetic
+Designed an A/B testing framework handling 3K requests per minute,1,synthetic
+Designed a mobile feature used by 60 teams,1,synthetic
+Reduced manual effort by 40% by tuning the model,1,synthetic
+Cut deployment time by 8% by redesigning the process,1,synthetic
+Lowered deployment time by 2% by adding caching,1,synthetic
+Built a mobile feature saving $30K per year,1,synthetic
+Cut deployment time by 2% by redesigning the process,1,synthetic
+Deployed an A/B testing framework saving $30K per year,1,synthetic
+Designed a CI/CD pipeline used by 15 teams,1,synthetic
+Reduced deployment time by 30% by tuning the model,1,synthetic
+Cut infrastructure costs by 2% by refactoring core modules,1,synthetic
+Launched a data pipeline processing 8M records daily,1,synthetic
+Lowered bug count by 5% by refactoring core modules,1,synthetic
+Implemented a data pipeline serving 30K users,1,synthetic
+Engineered a REST API handling 3K requests per minute,1,synthetic
+Improved revenue by 8% through adding caching,1,synthetic
+Decreased query time by 5% by refactoring core modules,1,synthetic
+Deployed a forecasting model handling 8K requests per minute,1,synthetic
+Lowered model error rate by 12% by migrating to a managed service,1,synthetic
+Deployed a CI/CD pipeline serving 15K users,1,synthetic
+Grew user retention by 5% through adding caching,1,synthetic
+Improved uptime by 12% through rewriting slow queries,1,synthetic
+Cut deployment time by 20% by introducing monitoring,1,synthetic
+Launched a recommendation engine handling 12K requests per minute,1,synthetic
+Improved conversion rate by 12% through automating the workflow,1,synthetic
+Built a CI/CD pipeline saving $15K per year,1,synthetic
+Grew conversion rate by 40% through introducing monitoring,1,synthetic
+Decreased API latency by 20% by redesigning the process,1,synthetic
+Cut infrastructure costs by 5% by redesigning the process,1,synthetic
+Helped with customer requests,0,synthetic
+Worked on new features,0,synthetic
+Good communication skills,0,synthetic
+Hard working team player,0,synthetic
+Contributed to testing and bug fixes,0,synthetic
+Responsible for data entry,0,synthetic
+Involved in the company website,0,synthetic
+Detail-oriented professional,0,synthetic
+Helped with the backend,0,synthetic
+Helped with new features,0,synthetic
+Quick learner and self-starter,0,synthetic
+In charge of new features,0,synthetic
+Involved in data entry,0,synthetic
+Involved in internal tools,0,synthetic
+In charge of the team's projects,0,synthetic
+Worked on internal tools,0,synthetic
+Contributed to the team's projects,0,synthetic
+Participated in the company website,0,synthetic
+Participated in the team's projects,0,synthetic
+Supported new features,0,synthetic
+Assisted with internal tools,0,synthetic
+Involved in various tasks,0,synthetic
+In charge of data entry,0,synthetic
+Duties included daily operations,0,synthetic
+Responsible for the backend,0,synthetic
+Duties included new features,0,synthetic
+Responsible for reports and documentation,0,synthetic
+Assisted with reports and documentation,0,synthetic
+In charge of reports and documentation,0,synthetic
+Assisted with testing and bug fixes,0,synthetic
+Worked on reports and documentation,0,synthetic
+Duties included testing and bug fixes,0,synthetic
+Participated in various tasks,0,synthetic
+Duties included customer requests,0,synthetic
+Worked on meetings and planning,0,synthetic
+Participated in testing and bug fixes,0,synthetic
+Participated in customer requests,0,synthetic
+Contributed to the company website,0,synthetic
+In charge of internal tools,0,synthetic
+Tasked with data entry,0,synthetic
+Tasked with meetings and planning,0,synthetic
+Responsible for customer requests,0,synthetic
+Assisted with data entry,0,synthetic
+Involved in meetings and planning,0,synthetic
+Tasked with reports and documentation,0,synthetic
+Duties included reports and documentation,0,synthetic
+Contributed to various tasks,0,synthetic
+Tasked with the company website,0,synthetic
+Responsible for testing and bug fixes,0,synthetic
+In charge of various tasks,0,synthetic
+In charge of daily operations,0,synthetic
+Participated in new features,0,synthetic
+Duties included meetings and planning,0,synthetic
+Participated in internal tools,0,synthetic
+Involved in testing and bug fixes,0,synthetic
+In charge of testing and bug fixes,0,synthetic
+Responsible for internal tools,0,synthetic
+Tasked with testing and bug fixes,0,synthetic
+Helped with data entry,0,synthetic
+Helped with testing and bug fixes,0,synthetic
+Involved in new features,0,synthetic
+Involved in customer requests,0,synthetic
+Participated in data entry,0,synthetic
+Contributed to new features,0,synthetic
+Contributed to data entry,0,synthetic
+Responsible for new features,0,synthetic
+Tasked with the team's projects,0,synthetic
+Contributed to internal tools,0,synthetic
+Helped with reports and documentation,0,synthetic
+Worked on the company website,0,synthetic

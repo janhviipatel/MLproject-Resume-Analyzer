@@ -1,0 +1,6 @@
+Senior Data Engineer
+We are looking for a data engineer to design and scale batch and streaming data pipelines.
+You will own data models in Snowflake and orchestrate workflows with Airflow.
+Write production Python and SQL, and ship reliable services on AWS using Docker and Kubernetes.
+Experience with Kafka and dbt is a plus.
+You will mentor engineers and collaborate with analytics teams.

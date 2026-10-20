@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ResumeLens</title>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="logo" aria-hidden="true">R</span>ResumeLens</div>
+  <div class="top-actions">
+    <button class="btn sm" id="histBtn" aria-expanded="false" aria-controls="hist">History</button>
+    <button class="btn sm" id="theme" aria-label="Toggle light and dark theme">Theme</button>
+  </div>
+</header>
+<main class="wrap">
+  <section class="intro">
+    <h1>See your resume the way a recruiter’s software does.</h1>
+    <p>Upload a resume and paste a job description. A trained classifier scores every bullet, models predict your target role, and semantic matching checks what the job asks for against what you’ve shown.</p>
+  </section>
+  <section class="card" id="hist" hidden aria-label="History"></section>
+  <div class="layout">
+    <section class="card input" aria-label="Inputs">
+      <div class="seg" role="tablist" aria-label="Resume input mode">
+        <button role="tab" id="m-up" aria-selected="true">Upload</button>
+        <button role="tab" id="m-paste" aria-selected="false">Paste</button>
+      </div>
+      <label class="drop" id="drop" for="file">
+        <input id="file" type="file" accept=".pdf,.docx,.txt,.md">
+        <strong id="dropTitle">Drop a PDF, DOCX or TXT here</strong>
+        <span id="dropSub">or click to browse · up to 5 MB</span>
+      </label>
+      <div id="pasteBox" hidden>
+        <div class="lbl"><label for="resume">Resume text</label><span id="rc" class="count">0 words</span></div>
+        <textarea id="resume" placeholder="Paste your resume. Start achievements with “- ”."></textarea>
+      </div>
+      <div class="lbl"><label for="job">Job description <small>(optional)</small></label><span id="jc" class="count">0 words</span></div>
+      <textarea id="job" placeholder="Paste the job description to see how well you match"></textarea>
+      <div class="actions" id="bar">
+        <button class="btn pri" id="go">Analyze</button>
+        <button class="btn" id="demo">Load sample</button>
+        <button class="btn ghost" id="clear">Clear</button>
+      </div>
+      <div class="err" id="err" role="alert"></div>
+    </section>
+    <section class="results" id="out" aria-live="polite">
+      <div class="card empty"><h2>Your results will appear here</h2><p>Try <b>Load sample</b> to see a full report in a couple of seconds.</p></div>
+    </section>
+  </div>
+</main>
+<script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+Maya Chen
+maya.chen@email.com | (415) 555-0142 | linkedin.com/in/mayachen | github.com/mayachen
+
+Summary
+Software engineer with 4 years of experience building data products in Python and TypeScript.
+
+Experience
+Data Engineer, Northwind Labs (2022 - Present)
+- Responsible for maintaining ETL pipelines on Airflow
+- Built a streaming ingestion service in Python that cut report latency from 6 hours to 15 minutes
+- Worked on dashboards used by various teams
+- Led migration of 40+ tables to Snowflake, saving $120K per year
+- Mentored 3 junior engineers and introduced code review standards
+
+Software Engineer, Brightpath (2020 - 2022)
+- Helped with API development
+- Designed a REST API in Flask serving 2M requests per day
+- Improved test coverage from 41% to 87% using pytest
+
+Education
+B.S. Computer Science, UC San Diego, 2020
+
+Skills
+Python, SQL, Airflow, Snowflake, Flask, Docker, Git
