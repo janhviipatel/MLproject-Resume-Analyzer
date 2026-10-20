@@ -1,4 +1,4 @@
-# ResumeLens
+# MLproject: Resume Analyzer
 
 Resume analyzer: FastAPI + scikit-learn backend, plain HTML/CSS/JS frontend (no build step, no CDN).
 Python 3.9+ compatible and light enough for an older laptop. No GPU or API key.
